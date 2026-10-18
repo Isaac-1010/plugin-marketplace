@@ -468,7 +468,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/shuffll/shuffll-engage-agent-kit.git",
-        "sha": "3ebc18f52719905f0985890a0101f534443d586e"
+        "sha": "7e90f5cc9840b88069cdf1b08370e4fef5dddef5"
       },
       "homepage": "https://engage.shuffll.com",
       "keywords": [
@@ -479,7 +479,7 @@
         "engage.shuffll.com",
         "api-docs.shuffll.com"
       ],
-      "version": "0.2.1",
+      "version": "0.2.2",
       "author": {
         "name": "Shuffll",
         "url": "https://shuffll.com"
